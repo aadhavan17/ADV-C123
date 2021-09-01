@@ -1,0 +1,13 @@
+#intro
+{
+    background-color: darkcyan;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-shadow: gray;
+    height: 50px;
+}
+canvas{
+    background-color: gray;
+}
+
