@@ -8,6 +8,19 @@
     height: 50px;
 }
 canvas{
+   border: gray;
+   box-shadow: 5px 5px 5px gray ;
     background-color: gray;
 }
+
+
+.copy_right_footer {
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3 ;
+    text-align: center;
+    }
 
